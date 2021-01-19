@@ -18,4 +18,4 @@ require (
 	k8s.io/client-go v0.0.0-20190514184034-dd7f3ad83f18
 )
 
-replace github.com/boz/kcache => github.com/hayarobi/kcache v0.4.0-a1
+replace github.com/boz/kcache v0.4.0 => github.com/hayarobi/kcache v0.15.0-a2

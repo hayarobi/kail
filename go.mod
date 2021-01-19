@@ -17,3 +17,5 @@ require (
 	k8s.io/apimachinery v0.0.0-20190515023456-b74e4c97951f
 	k8s.io/client-go v0.0.0-20190514184034-dd7f3ad83f18
 )
+
+replace github.com/boz/kcache => github.com/hayarobi/kcache v0.4.0-a1
